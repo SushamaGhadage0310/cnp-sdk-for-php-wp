@@ -1,15 +1,15 @@
 {
     "name": "vantiv/cnp-payments-sdk",
     "type": "library",
-    "description": "The Vantiv eCommerce PHP SDK is a PHP implementation of the [Vantiv eCommerce](https://developer.vantiv.com/community/ecommerce). XML API. This SDK was created to make it as easy as possible to connect process your payments with Vantiv eCommerce",
+    "description": "The Vantiv eCommerce PHP SDK is a PHP implementation of the [Vantiv eCommerce](https://docs.worldpay.com/access/community/ecommerce). XML API. This SDK was created to make it as easy as possible to connect process your payments with Vantiv eCommerce",
     "keywords": ["vantiv","sdk","ecommerce","payments", "cnp"],
-    "homepage": "https://developer.vantiv.com/community/ecommerce",
+    "homepage": "https://docs.worldpay.com/access/community/ecommerce",
     "license": "MIT",
     "authors": [
         {
             "name": "Vantiv eCommerce SDK",
             "email": "sdksupport@vantiv.com",
-            "homepage": "https://developer.vantiv.com/community/ecommerce",
+            "homepage": "https://docs.worldpay.com/access/community/ecommerce",
             "role": "Developer"
         }
     ],
