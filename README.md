@@ -19,7 +19,7 @@ See LICENSE file for details on using this software.
 
 Source Code available from : https://github.com/Worldpay/cnp-sdk-for-php
 
-Please contact [Vantiv eCommerce](https://docs.worldpay.com/apis/cnpapi) to receive valid merchant credentials in order to run tests successfully or if you require assistance in any way.  We are reachable at sdksupport@fisglobal.com
+Please contact [Vantiv eCommerce](https://docs.worldpay.com/apis/cnpapi) to receive valid merchant credentials in order to run tests successfully or if you require assistance in any way.  We are reachable at sdksupport@worldpay.com
 
 SDK PHP Dependencies
 --------------
