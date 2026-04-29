@@ -4,12 +4,12 @@ Vantiv eCommerce PHP SDK
 ##### All major version changes require recertification to the new version. Once certified for the use of a new version, Vantiv modifies your Merchant Profile, allowing you to submit transaction to the Production Environment using the new version. Updating your code without recertification and modification of your Merchant Profile will result in transaction declines. Please consult you Implementation Analyst for additional information about this process.
 About Vantiv eCommerce
 ------------
-[Vantiv eCommerce](https://developer.vantiv.com/community/ecommerce) powers the payment processing engines for leading companies that sell directly to consumers through  internet retail, direct response marketing (TV, radio and telephone), and online services. Vantiv eCommerce is the leading authority in card-not-present (CNP) commerce, transaction processing and merchant services.
+[Vantiv eCommerce](https://docs.worldpay.com/apis/cnpapi) powers the payment processing engines for leading companies that sell directly to consumers through  internet retail, direct response marketing (TV, radio and telephone), and online services. Vantiv eCommerce is the leading authority in card-not-present (CNP) commerce, transaction processing and merchant services.
 
 
 About this SDK
 --------------
-The Vantiv eCommerce PHP SDK is a PHP implementation of the [Vantiv eCommerce](https://developer.vantiv.com/community/ecommerce). XML API. This SDK was created to make it as easy as possible to connect process your payments with Vantiv eCommerce.  This SDK utilizes  the HTTPS protocol to securely connect to Vantiv eCommerce.  Using the SDK requires coordination with the Vantiv eCommerce team in order to be provided with credentials for accessing our systems.
+The Vantiv eCommerce PHP SDK is a PHP implementation of the [Vantiv eCommerce](https://docs.worldpay.com/apis/cnpapi). XML API. This SDK was created to make it as easy as possible to connect process your payments with Vantiv eCommerce.  This SDK utilizes  the HTTPS protocol to securely connect to Vantiv eCommerce.  Using the SDK requires coordination with the Vantiv eCommerce team in order to be provided with credentials for accessing our systems.
 
 Each PHP SDK release supports all of the functionality present in the associated Vantiv eCommerce XML version (e.g., SDK v9.3.2 supports Vantiv eCommerce XML v9.3). Please see the online copy of our XSD for Vantiv eCommerce XML to get more details on what the Vantiv eCommerce payments engine supports.
 
@@ -17,9 +17,9 @@ This SDK was implemented to support the PHP programming language and was created
 
 See LICENSE file for details on using this software.
 
-Source Code available from : https://github.com/Vantiv/cnp-sdk-for-php
+Source Code available from : https://github.com/Worldpay/cnp-sdk-for-php
 
-Please contact [Vantiv eCommerce](https://developer.vantiv.com/community/ecommerce) to receive valid merchant credentials in order to run tests successfully or if you require assistance in any way.  We are reachable at sdksupport@fisglobal.com
+Please contact [Vantiv eCommerce](https://docs.worldpay.com/apis/cnpapi) to receive valid merchant credentials in order to run tests successfully or if you require assistance in any way.  We are reachable at sdksupport@worldpay.com
 
 SDK PHP Dependencies
 --------------
@@ -180,4 +180,4 @@ You probably had a problem with composer.  You can safely remove line 42 if you 
 
 More examples can be found here [php Gists](https://gist.github.com/litleSDK)
 
-Please contact Vantiv eCommerce Inc. with any further questions.   You can reach us at sdksupport@fisglobal.com
+Please contact Vantiv eCommerce Inc. with any further questions.   You can reach us at sdksupport@worldpay.com
